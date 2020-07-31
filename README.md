@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Julian Lehrer </h1>
 
-<!--
-**jlehrer1/jlehrer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+Hello there! My name is Julian (he/him). I'm a Computer Science and Computational Mathematics student at the University of California, Santa Cruz. I'm fascinated by mathematics, data science, and machine learning. 
 
-Here are some ideas to get you started:
+Currently, I'm interning at a biomedical startup called **Blackthorn Therapeutics**, where I'm using engineering data pipelines and ML models to help predict what makes a person prone to anxiety. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you'd like, you can check out my full resume [here](https://github.com/jlehrer1/resume/blob/master/resume/resume.pdf). 
+
+### What are my projects?
+Check out my master list of projects [here](https://github.com/jlehrer1/Projects). Every public repo is open source, so feel free to look around!
+
+### How should I contact you?
+If you have any questions about one of my projects, or are hiring for the 2020 fall cycle and beyond, feel free to contact me at jmlehrer@ucsc.edu.
+
+
