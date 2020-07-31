@@ -3,8 +3,6 @@
 ### Who am I?
 Hello there! My name is Julian (he/him). I'm a Computer Science and Computational Mathematics student at the University of California, Santa Cruz. I'm fascinated by mathematics, data science, and machine learning. 
 
-Currently, I'm interning at a biomedical startup called **Blackthorn Therapeutics**, where I'm using engineering data pipelines and ML models to help predict what makes a person prone to anxiety. 
-
 If you'd like, you can check out my full resume [here](https://github.com/jlehrer1/resume/blob/master/resume/resume.pdf). 
 
 ### What are my projects?
