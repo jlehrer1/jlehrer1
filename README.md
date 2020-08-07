@@ -12,3 +12,4 @@ Check out my master list of projects [here](https://github.com/jlehrer1/Projects
 If you have any questions about one of my projects, or are hiring for the 2020 fall cycle and beyond, feel free to contact me at jmlehrer@ucsc.edu.
 
 
+[![Julians's github stats](https://github-readme-stats.vercel.app/api?username=jlehrer1)](https://github.com/anuraghazra/github-readme-stats)
