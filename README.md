@@ -9,4 +9,4 @@ If you'd like, you can check out my full resume [here](https://julianlehrer.me/r
 Check out my master list of projects [here](https://github.com/jlehrer1/Projects). Every public repo is open source, so feel free to look around!
 
 ### What am I working on?
-Currently, I'm an graduate researcher for the UCSC Genomics Institute. In my spare time, I'm interested in in competitive machine learning and data visualization. 
+Currently, I'm an graduate researcher for the UCSC Genomics Institute. I'm also currently searching for a job post graduation. If you think any of my work is valuable for an MLE / data scientist role, feel free to reach out! 
