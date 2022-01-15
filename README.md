@@ -1,7 +1,7 @@
 <h1 align="center"> Julian Lehrer </h1>
 
 ### Who am I?
-Hello there! My name is Julian (he/him). I'm a graduate student at the University of California, Santa Cruz. I'm fascinated by mathematics, data science, and machine learning. 
+Hello there! My name is Julian (he/him). I'm a graduate student at the University of California, Santa Cruz. I'm fascinated by mathematics, machine learning, deep learning and in particular, computer vision. 
 
 If you'd like, you can check out my full resume [here](https://github.com/jlehrer1/resume/blob/master/resume/resume.pdf) and my personal website [here](https://julianlehrer.me/)
 
